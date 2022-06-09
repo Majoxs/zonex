@@ -1,0 +1,11 @@
+@import "vars.scss";
+@import "mixins.scss";
+@import "fonts.scss";
+@import "vendor.scss";
+@import "settings.scss";
+
+// Custom components styles
+@import "./components/header";
+@import "./components/nav";
+@import "./components/shop-nav";
+@import "./components/hero";
